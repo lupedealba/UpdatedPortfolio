@@ -11,3 +11,6 @@ This is my online biography and portfolio. It is comprised of three pages. The f
 * [Deployed Github link](https://lupedealba.github.io/UpdatedPortfolio/)
 
 * [Github link](https://github.com/lupedealba/UpdatedPortfolio/)
+
+**Screenshot:**
+![Item Purchase](assets\images\portfoliopage.png)
